@@ -1,5 +1,11 @@
+<<<<<<< HEAD
 dd some text in this fildsdsdsdsdsdsdsdsw
 
 line 2
+=======
+hello
 
-line5
+codecamp
+>>>>>>> feature-1
+
+student
