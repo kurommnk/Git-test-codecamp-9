@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 dd some text in this fildsdsdsdsdsdsdsds
 
 
@@ -11,8 +10,11 @@ line 9
 line 10
 
 line 12
-=======
 dd some text in this fildsdsdsdsdsdsdsdsw
 
 line 2
->>>>>>> 72d3c51 ([Edit] test.txt in develop branch)
+=======
+line3
+
+line5
+>>>>>>> 39be69bfd31a4c6027c33dd6181e5d4517d77458
